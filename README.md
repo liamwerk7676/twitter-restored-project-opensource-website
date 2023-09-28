@@ -1,3 +1,8 @@
+What Is This About
+twitter restored is a project i want to start but i dont have the time to 
+witch restored the old twitter app that way twitter aka hell is back to normal 
+or whats normal for twitter
+
 # opensource.twitter.dev
 
 [![status: active](https://opensource.twitter.dev/status/active.svg)](https://opensource.twitter.dev/status/#active)
